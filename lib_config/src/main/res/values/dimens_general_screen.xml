@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="marginLeft">16dp</dimen>
+    <dimen name="marginRight">16dp</dimen>
+    <dimen name="marginTop">16dp</dimen>
+    <dimen name="marginBottom">16dp</dimen>
+
+    <dimen name="padding">10dp</dimen>
+    <dimen name="paddingLeft">10dp</dimen>
+    <dimen name="paddingRight">10dp</dimen>
+    <dimen name="paddingTop">10dp</dimen>
+    <dimen name="paddingBottom">10dp</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@id/viewNoData"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="@dimen/padding"
+    android:textSize="@dimen/textSizeDefault"
+    android:text="@string/noData"/>
